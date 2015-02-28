@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6221" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="9Ig-op-W5J">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="9Ig-op-W5J">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6213"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
         <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
@@ -70,7 +70,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8w7-hu-FCn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-302.39999999999998" y="-393.81333333333328"/>
+            <point key="canvasLocation" x="-376" y="-394"/>
         </scene>
         <!--Home Menu View Controller-->
         <scene sceneID="9wB-5C-WJL">
@@ -93,7 +93,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Fm3-Qn-pBP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1098.1333333333332" y="304.8266666666666"/>
+            <point key="canvasLocation" x="-1043" y="-394"/>
         </scene>
         <!--IT江湖-->
         <scene sceneID="PYr-Nj-e02">
@@ -140,7 +140,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pTt-ac-gRp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="130.13333333333333" y="219.62666666666664"/>
+            <point key="canvasLocation" x="130" y="238"/>
         </scene>
         <!--技术-->
         <scene sceneID="3Hl-Q9-a12">
@@ -161,7 +161,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hlF-9I-k4Z" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-363.19999999999999" y="244.24000000000001"/>
+            <point key="canvasLocation" x="-376" y="238"/>
         </scene>
         <!--IT江湖-->
         <scene sceneID="3fw-cw-ssa">
@@ -208,7 +208,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1od-nN-Dkx" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="130.13333333333333" y="851.05333333333317"/>
+            <point key="canvasLocation" x="130" y="856"/>
         </scene>
         <!--我的江湖-->
         <scene sceneID="bK3-Wk-glh">
@@ -312,7 +312,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JBH-cd-XIF" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-71" y="1373"/>
+            <point key="canvasLocation" x="130" y="1477"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="0gL-Qb-Dzy">
@@ -339,7 +339,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BV4-RO-wbH" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="770" y="1526"/>
+            <point key="canvasLocation" x="942" y="1788"/>
         </scene>
         <!--关注我们-->
         <scene sceneID="9pA-l4-0ZM">
@@ -408,7 +408,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="720-aV-9mz" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="422" y="1634"/>
+            <point key="canvasLocation" x="344" y="2202"/>
         </scene>
         <!--关于-->
         <scene sceneID="Fjn-yO-CWD">
@@ -449,7 +449,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GtH-Qy-MgS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="433" y="1190"/>
+            <point key="canvasLocation" x="-227" y="2210"/>
         </scene>
         <!--Show Login View Controller-->
         <scene sceneID="GMn-EN-3tL">
@@ -485,7 +485,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="o5D-DE-SHC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="796.79999999999995" y="1305.4533333333334"/>
+            <point key="canvasLocation" x="920" y="1121"/>
         </scene>
         <!--趣文-->
         <scene sceneID="mxj-Dg-F8t">
@@ -504,7 +504,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NQ8-gj-Cfu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-382.39999999999998" y="856.73333333333335"/>
+            <point key="canvasLocation" x="-295" y="866"/>
         </scene>
         <!--我的江湖-->
         <scene sceneID="OfR-ZY-lVI">
@@ -525,7 +525,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fuK-zN-hry" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-352.5333333333333" y="1515.613333333333"/>
+            <point key="canvasLocation" x="-843" y="1509"/>
         </scene>
     </scenes>
     <resources>
